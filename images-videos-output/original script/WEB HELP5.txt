@@ -1,0 +1,10 @@
+img = image add
+tit = title
+txt=text
+vid=video
+end = end 
+/ = div
+> = span
+link=link
+help = this message
+
