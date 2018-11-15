@@ -1,5 +1,5 @@
 # Web-Maker
-Program for create basic HTML and CSS webside
+Program for create basic HTML and base CSS webside
 Place your images an videos into specific folders
 in output folder will be your finished web
 
